@@ -1,0 +1,2 @@
+# claseDeConsultaDic
+Clase de Consulta
